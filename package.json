@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a00-taylorrk/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/a00-taylorrk#readme"
+  "homepage": "https://github.com/comp426-2022-spring/a00-taylorrk#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
 }
